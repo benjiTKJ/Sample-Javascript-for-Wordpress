@@ -1,1 +1,0 @@
-# Sample_Javascript_for_Wordpress
