@@ -19,9 +19,9 @@ const PROJECTS = [
     },
     {
         id: 3,
-        title: 'Example React Application',
-        description: 'A sample React App that ive built',
-        link: 'https://github.com/benjiTKJ/Java-WebApp/tree/main/first-web-app',
+        title: 'Bootstrap react app',
+        description: 'Use this bootstrap react app to kickstart your react application quick',
+        link: 'https://github.com/benjiTKJ/React-Bootstrap-2019',
         image: project3
     }
 ];
