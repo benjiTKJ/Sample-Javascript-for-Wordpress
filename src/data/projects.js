@@ -5,23 +5,23 @@ import project3 from '../assets/project3.png';
 const PROJECTS = [
     {
         id: 1,
-        title: 'Example Java Application',
-        description: 'A Java SpringBoot web project that i built!',
+        title: 'Java Full Stack Web Application',
+        description: 'My first full stack web application i"ve ever built!',
         link: 'https://github.com/benjiTKJ/Java-WebApp/tree/main/first-web-app',
         image: project1
     },
     {
         id: 2,
-        title: 'Example Terraform infra',
-        description: 'An example terraform code to spin up 1 ubuntu EC2 on AWS',
-        link: 'https://github.com/benjiTKJ/TerraformRepo',
+        title: 'Terraform DevOps Case Study',
+        description: 'A terraform DevOps case study on creating AWS resources for multiple environments and regions',
+        link: 'https://github.com/benjiTKJ/aws-terraform-devops-case-study',
         image: project2
     },
     {
         id: 3,
-        title: 'Bootstrap react app',
-        description: 'Use this bootstrap react app to kickstart your react application quick',
-        link: 'https://github.com/benjiTKJ/React-Bootstrap-2019',
+        title: 'Portfolio Website',
+        description: 'Portfolio website created using React Framework',
+        link: 'https://github.com/benjiTKJ/react-portfolio-website',
         image: project3
     }
 ];
