@@ -1,0 +1,9 @@
+version: '3.0'
+
+services:
+  portfolio-website:
+    image: benjitkj-portfolio-website:latest
+    ports:
+      - 3000:3000
+    environment:
+      - NODE_ENV=production
